@@ -109,3 +109,24 @@ body {
     transform: translateX(0);
 
 }
+#menu01 {
+    float: left;
+    margin-top: 0;
+    margin-left: 470px;
+    width: 200px;
+    height: 200px;
+    border: 3px solid white;
+    border-radius: 30px;
+    padding: auto;
+}
+
+#menu02 {
+    margin-top: 0;
+    float: right;
+    margin-right: 470px;
+    width: 200px;
+    height: 200px;
+    border: 3px solid white;
+    border-radius: 30px;
+    padding: auto;
+}
